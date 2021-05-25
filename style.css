@@ -1,0 +1,22 @@
+
+ 
+#nav-bar {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.jj {
+    display: flex;
+
+    }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    .jj{
+        display: block;
+    }
+  }
